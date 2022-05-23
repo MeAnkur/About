@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available on Github.
 
-- 📝 I regularly write articles on [https://medium.com/@uic17bca1427](https://medium.com/@uic17bca1427)
+- 📝 I regularly write articles on <a href="https://medium.com/@uic17bca1427">_medium_ </a> 
 
 - 💬 Ask me about **HTML ,CSS ,JavaScript ,Shall Scripting and DSA.**
 
 - 📫 How to reach me **ankur999sh@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1xLggEPWulK6LeDUvnYouEPuZ5QKZU7vC/view">(_Resume_)</a>
+- 📄 Know about my experiences in my<a href="https://drive.google.com/file/d/1xLggEPWulK6LeDUvnYouEPuZ5QKZU7vC/view"> _Resume_</a>
 
 - ⚡ Fun fact **I like outdoor sports and am always open for a cricket match.**
 
